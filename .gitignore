@@ -1,0 +1,6 @@
+Encoder.pro.*
+Temp
+Encoder
+version.sh
+Makefile
+ui_*.h
